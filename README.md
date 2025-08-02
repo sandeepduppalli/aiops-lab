@@ -47,6 +47,7 @@ OpenSearch Dashboards: 5601
 Log Ingestion TCP (Cribl): 5140```
 
 🔗 Access URLs
+
 Once up, access services via your EC2 public IP:
 
 ```Grafana: http://<EC2_PUBLIC_IP>:3000
