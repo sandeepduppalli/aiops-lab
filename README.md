@@ -46,7 +46,7 @@ OpenSearch API: 9200
 OpenSearch Dashboards: 5601
 Log Ingestion TCP (Cribl): 5140```
 
-🔗 Access URLs
+## 🐳 Access URLs
 
 Once up, access services via your EC2 public IP:
 
